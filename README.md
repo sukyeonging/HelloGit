@@ -14,10 +14,10 @@ print('고양이는 너무 귀여워요!!!')
 ```
 
 ### Example
-https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FQnqJS%2FbtqxDVHl1SY%2FWuyd5jF8U5V5mKviMNczYK%2Fimg.jpg
+![코숏고등어](https://user-images.githubusercontent.com/68209413/96083946-29734d80-0ef9-11eb-8f48-8102a1c12d3a.jpg)
 
 ### Reference
-크집사링크: <>
+[크집사링크](https://www.youtube.com/channel/UCkuA_gDjISfGgbdp02BUwyQ)
 
 ### Issue
 - Issue 1
